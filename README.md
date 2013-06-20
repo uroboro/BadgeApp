@@ -10,3 +10,8 @@ How to:
 - Write string (the number of characters may vary from 4 to 7 depending on the character's thickness)
 - Press return
 - Quit app
+
+Requirements:
+- iOS 3.0 or later
+- Jailbreak
+- Appsync
